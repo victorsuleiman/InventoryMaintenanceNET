@@ -1,0 +1,17 @@
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.deps.json
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.json
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.dev.json
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.dll
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.dll
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.genruntimeconfig.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.AssemblyReference.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
